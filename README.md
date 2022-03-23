@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmad-Montasser
-- 👀 I’m interested in App development and Data Science
-- 🌱 I’m currently learning Flutter, React and NodeJS
+- 👀 I’m interested in App development and Testing
+- 🌱 I’m currently learning Rails, Flutter, React and NodeJS
 - 📫 How to reach me 
 ahmad.montasser@yahoo.com
 ahmad.montasser@outlook.com
